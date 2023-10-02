@@ -1,0 +1,38 @@
+[
+  {
+    "Unternehmen": "DEVK",
+    "Status": "Probearbeit",
+    "Position": "Full Stack Developer",
+    "Arbeitsumfeld": "Versicherungen"
+  },
+  {
+    "Unternehmen": "Pacemaker",
+    "Status": "Technisches Interview",
+    "Position": "Full Stack Developer",
+    "Arbeitsumfeld": "Machine Learning / KI"
+  },
+  {
+    "Unternehmen": "Acardo",
+    "Status": "Case Study / Code-Aufgabe abgegeben",
+    "Position": "Jave Entwickler",
+    "Arbeitsumfeld": "Dienstleister / Coupons"
+  },
+  {
+    "Unternehmen": "Continentale",
+    "Status": "Einladung 2. Interview",
+    "Position": "(Junior) Software Entwickler / Absolvent",
+    "Arbeitsumfeld": "Versicherungen"
+  },
+  {
+    "Unternehmen": "FOM",
+    "Status": "Vorstellungsgespräch",
+    "Position": "DevOps Engineer",
+    "Arbeitsumfeld": "Hochschule"
+  },
+  {
+    "Unternehmen": "Adesso Insurance Solutions",
+    "Status": "Angebot pending",
+    "Position": "Java Software Developer",
+    "Arbeitsumfeld": "IT-Dienstleister Versicherungen"
+  }
+]
