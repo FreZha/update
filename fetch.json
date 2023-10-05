@@ -7,13 +7,13 @@
   },
   {
     "Unternehmen": "Pacemaker",
-    "Status": "Technisches Interview",
+    "Status": "Antwort pending",
     "Position": "Full Stack Developer",
     "Arbeitsumfeld": "Machine Learning / KI"
   },
   {
     "Unternehmen": "Acardo",
-    "Status": "Case Study / Code-Aufgabe abgegeben",
+    "Status": "Antwort pending",
     "Position": "Jave Entwickler",
     "Arbeitsumfeld": "Dienstleister / Coupons"
   },
@@ -25,7 +25,7 @@
   },
   {
     "Unternehmen": "FOM",
-    "Status": "Vorstellungsgespräch",
+    "Status": "Antwort Pending für zweites Gespräch vor Ort",
     "Position": "DevOps Engineer",
     "Arbeitsumfeld": "Hochschule"
   },
