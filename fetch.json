@@ -1,25 +1,25 @@
 [
   {
     "Unternehmen": "DEVK",
-    "Status": "Probearbeit",
+    "Status": "Verhandlungsgespräch mit HR / Termin ausstehend",
     "Position": "Full Stack Developer",
     "Arbeitsumfeld": "Versicherungen"
   },
   {
     "Unternehmen": "Pacemaker",
-    "Status": "Antwort pending",
+    "Status": "Einladung zum Angebotsgespräch",
     "Position": "Full Stack Developer",
     "Arbeitsumfeld": "Machine Learning / KI"
   },
   {
     "Unternehmen": "Acardo",
-    "Status": "Antwort pending",
+    "Status": "Zweiter Termin bevorstehend",
     "Position": "Jave Entwickler",
     "Arbeitsumfeld": "Dienstleister / Coupons"
   },
   {
     "Unternehmen": "Continentale",
-    "Status": "Einladung 2. Interview",
+    "Status": "2. Termin bevorstehend",
     "Position": "(Junior) Software Entwickler / Absolvent",
     "Arbeitsumfeld": "Versicherungen"
   },
